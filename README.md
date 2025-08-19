@@ -11,8 +11,8 @@ To join a Security Operations Center (SOC) as a Tier 1 Analyst, where I can appl
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://github.com/TanunM/SOC-Home-Lab">SOC Home Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/TanunM/SOC-Home-Lab">SOC Home Lab</a>|
+| SIEM Implementation and Log Analysis          | <a tag with target="blank" href="https://github.com/TanunM/SOC-Home-Lab">SOC Home Lab</a>|
+| Network Traffic Monitoring and Attack Detection | <a tag with target="blank" href="https://github.com/TanunM/SOC-Home-Lab">SOC Home Lab</a>|
 <!-- | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
