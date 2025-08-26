@@ -13,10 +13,10 @@ To join a Security Operations Center (SOC) as a Tier 1 Analyst, where I can appl
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a tag with target="blank" href="https://github.com/TanunM/SOC-Home-Lab">SOC Home Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a tag with target="blank" href="https://github.com/TanunM/SOC-Home-Lab">SOC Home Lab</a>|
-| Security Automation with Shuffle SOAR         |<a tag with target="blank" href="https://github.com/TanunM/Active-Directory-Project">Active Directory Project</a>|
-<!--| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab| -->
+| Active Directory Security         |<a tag with target="blank" href="https://github.com/TanunM/Active-Directory-Project">Active Directory Project</a>|
+| Security Orchestration, Automation, and Response (SOAR)      | <a tag with target="blank" href="https://github.com/TanunM/SOC-Automation">SOC Automation Lab</a>|
+| Network & Endpoint Monitoring                  | <a tag with target="blank" href="https://github.com/TanunM/SOC-Automation">SOC Automation Lab</a>|
+| Threat Detection & Incident Response | All Project|
 
 ## Tools
 
@@ -49,9 +49,10 @@ To join a Security Operations Center (SOC) as a Tier 1 Analyst, where I can appl
 ### Penetration Testing
 <div>
   <img src="https://img.shields.io/badge/-Metasploit-E31C20?&style=for-the-badge&logo=Metasploit&logoColor=white" alt="Metasploit Badge" />
-
+  
   <img src="https://img.shields.io/badge/-Hydra-1A2C3D?&style=for-the-badge&logo=Hydra&logoColor=white" alt="Hydra Badge" />
 </div>
+
 ## Certifications
 <div>
   <a href="https://www.credly.com/badges/c2cf8d3b-3498-4039-a393-d97efbb81537/public_url" target="_blank">
@@ -60,6 +61,6 @@ To join a Security Operations Center (SOC) as a Tier 1 Analyst, where I can appl
 </div>
 
 ## Projects
-
 - SOC home lab
 - End point detection and response lab
+- SOC Automation
