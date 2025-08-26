@@ -33,8 +33,25 @@ To join a Security Operations Center (SOC) as a Tier 1 Analyst, where I can appl
 ### SIEM
 <div>
   <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/-Wazuh-4E57B7?&style=for-the-badge&logo=Wazuh&logoColor=white" alt="Wazuh Badge" />
+
+  <img src="https://img.shields.io/badge/-Sysmon-A4A9B1?&style=for-the-badge&logo=Windows&logoColor=white" alt="Sysmon Badge" />
 </div>
 
+### SOAR (Orchestration & Automation)
+<div>
+  <img src="https://img.shields.io/badge/-TheHive-F28500?&style=for-the-badge&logo=TheHive&logoColor=white" alt="TheHive Badge" />
+
+  <img src="https://img.shields.io/badge/-Shuffle_SOAR-3C8DBC?&style=for-the-badge&logo=Python&logoColor=white" alt="Shuffle SOAR Badge" />
+</div>
+
+### Penetration Testing
+<div>
+  <img src="https://img.shields.io/badge/-Metasploit-E31C20?&style=for-the-badge&logo=Metasploit&logoColor=white" alt="Metasploit Badge" />
+
+  <img src="https://img.shields.io/badge/-Hydra-1A2C3D?&style=for-the-badge&logo=Hydra&logoColor=white" alt="Hydra Badge" />
+</div>
 ## Certifications
 <div>
   <a href="https://www.credly.com/badges/c2cf8d3b-3498-4039-a393-d97efbb81537/public_url" target="_blank">
