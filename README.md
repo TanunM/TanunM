@@ -9,18 +9,18 @@ To join a Security Operations Center (SOC) as a Tier 1 Analyst, where I can appl
 ## Skills
 | Skill | Associated Project |
 |---|---|
-| SIEM implementation, log analysis & threat detection | <a target="_blank" href="">Splunk SIEM Lab</a> |
-| Active Directory security & brute-force detection | <a target="_blank" href="">SIEM Active Directory Security Lab</a> |
-| Security Orchestration, Automation & Response (SOAR) | <a target="_blank" href="">SOAR Automation Lab</a> |
-| Endpoint detection & File Integrity Monitoring (EDR) | <a target="_blank" href="">Wazuh EDR Project</a> |
-| Web Application Firewall (WAF) & application-layer defense | <a target="_blank" href="">Safeline Application-Layer Firewall Lab</a> |
-| Perimeter firewall configuration & DDoS/HTTP flood testing | <a target="_blank" href="">pfSense Firewall Lab</a> |
-| Network capture, packet analysis & traffic forensics | <a target="_blank" href="">tcpdump Basic Lab</a>, <a target="_blank" href="">Wireshark Basic Lab</a> |
-| Secure VPN setup & routing | <a target="_blank" href="">WireGuard VPN Lab</a> |
-| Threat simulation & IOC investigation (Red Team tools) | <a target="_blank" href="">Splunk SIEM Lab</a>, <a target="_blank" href="">SIEM Active Directory Security Lab</a> |
-| Scripting & automation (Python, Bash, PowerShell) | <a target="_blank" href="">SOAR Automation Lab</a>, <a target="_blank" href="">Wazuh EDR Project</a> |
-| Web & database fundamentals (HTML / CSS / JS / SQL) | <a target="_blank" href="">Safeline Application-Layer Firewall Lab</a>, <a target="_blank" href="">Splunk Basic Lab</a> |
-| Security monitoring, incident response & documentation | All Projects |
+| SIEM implementation, log analysis & threat detection | <a target="_blank" href="https://github.com/TanunM/splunk_SIEM_lab">Splunk SIEM Lab</a>, <a target="_blank" href="https://github.com/TanunM/SIEM_active_directory_project">SIEM Active Directory Security Lab</a>, <a target="_blank" href="https://github.com/TanunM/Splunk_basics_lab">Splunk Basic Lab</a> |
+| Active Directory security & brute-force detection | <a target="_blank" href="https://github.com/TanunM/SIEM_active_directory_project">SIEM Active Directory Security Lab</a> |
+| Security Orchestration, Automation & Response (SOAR) | <a target="_blank" href="https://github.com/TanunM/SOAR_project">SOAR Automation Lab</a> |
+| Endpoint detection & File Integrity Monitoring (EDR) | <a target="_blank" href="https://github.com/TanunM/wazuh_EDR_project">Wazuh EDR Project</a> |
+| Web Application Firewall (WAF) & application-layer defense | <a target="_blank" href="https://github.com/TanunM/SafeLine-WAF-Lab">Safeline Application-Layer Firewall Lab</a> |
+| Perimeter firewall configuration & DDoS/HTTP flood testing | <a target="_blank" href="https://github.com/TanunM/pfSense_firewall_home_lab">pfSense Firewall Lab</a> |
+| Network capture, packet analysis & traffic forensics | <a target="_blank" href="https://github.com/TanunM/tcpdump_basics">tcpdump Basic Lab</a>, <a target="_blank" href="https://github.com/TanunM/Wireshark_basics">Wireshark Basic Lab</a> |
+| Secure VPN setup & routing | <a target="_blank" href="https://github.com/TanunM/WireGuardVpn_HomeLab">WireGuard VPN Lab</a> |
+| Threat simulation & IOC investigation (Red Team tools) | <a target="_blank" href="https://github.com/TanunM/splunk_SIEM_lab">Splunk SIEM Lab</a>, <a target="_blank" href="https://github.com/TanunM/SIEM_active_directory_project">SIEM Active Directory Security Lab</a> |
+| Scripting & automation (Python, Bash, PowerShell) | <a target="_blank" href="https://github.com/TanunM/SOAR_project">SOAR Automation Lab</a>, <a target="_blank" href="https://github.com/TanunM/wazuh_EDR_project">Wazuh EDR Project</a>, <a target="_blank" href="">ELK Sandbox Lab</a> |
+| Web & database fundamentals (HTML / CSS / JS / SQL) | <a target="_blank" href="https://github.com/TanunM/SafeLine-WAF-Lab">Safeline Application-Layer Firewall Lab</a>, <a target="_blank" href="https://github.com/TanunM/Splunk_basics_lab">Splunk Basic Lab</a> |
+| Security monitoring, incident response & documentation | <a target="_blank" href="">All Labs</a> |
 
 ## Tools
 
